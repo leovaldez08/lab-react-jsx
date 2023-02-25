@@ -1,0 +1,12 @@
+/* add your styles here */
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.image {
+  height: 350px;
+  width: 600px;
+  padding: 15px;
+}
